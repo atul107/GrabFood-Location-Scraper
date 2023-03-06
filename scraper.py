@@ -1,16 +1,11 @@
 import json
 from time import sleep
-import requests
 
-from driver import Driver
+from Driver import Driver
 
-from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
-from seleniumwire import webdriver as swd
 from seleniumwire.utils import decode as sw_decode
+
 
 class Scraper:  
     def __init__(self, driver: Driver, base_url, post_url) -> None: 

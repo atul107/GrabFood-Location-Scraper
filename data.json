@@ -1,0 +1,968 @@
+{
+    "01_Potato_Corner": {
+        "chainName": "Potato Corner",
+        "latlng": {
+            "latitude": 1.2911423427005815,
+            "longitude": 103.850452512407
+        }
+    },
+    "1337_Authentic_Hock_Lam_Beef_Noodles": {
+        "chainName": "Authentic Hock Lam Beef Noodles",
+        "latlng": {
+            "latitude": 1.2858520514167553,
+            "longitude": 103.8489851
+        }
+    },
+    "01_HANS_IM_GLUCK_German_Burgergrill": {
+        "chainName": "HANS IM GL\u00dcCK German Burgergrill",
+        "latlng": {
+            "latitude": 1.28798635,
+            "longitude": 103.8493528
+        }
+    },
+    "4748_Kebabs_Faktory": {
+        "chainName": "Kebabs Faktory",
+        "latlng": {
+            "latitude": 1.2914875285714287,
+            "longitude": 103.85041130434782
+        }
+    },
+    "01_Mr_Coconut": {
+        "chainName": "Mr. Coconut",
+        "latlng": {
+            "latitude": 1.284162,
+            "longitude": 103.851186
+        }
+    },
+    "01_Gong_Cha": {
+        "chainName": "Gong Cha",
+        "latlng": {
+            "latitude": 1.2914095000779184,
+            "longitude": 103.85050343309535
+        }
+    },
+    "01_Subway": {
+        "chainName": "Subway",
+        "latlng": {
+            "latitude": 1.2912632999963665,
+            "longitude": 103.8503193
+        }
+    },
+    "01_Mr_Tandoor": {
+        "chainName": "Mr Tandoor",
+        "latlng": {
+            "latitude": 1.287531,
+            "longitude": 103.849186
+        }
+    },
+    "03_LiHO_TEA": {
+        "chainName": "Liho Tea",
+        "latlng": {
+            "latitude": 1.2913261,
+            "longitude": 103.85024359285714
+        }
+    },
+    "01_Wok_Hey": {
+        "chainName": "Wok Hey",
+        "latlng": {
+            "latitude": 1.2915452804469254,
+            "longitude": 103.8505320292112
+        }
+    },
+    "01_urban_mix": {
+        "chainName": "Urban Mix",
+        "latlng": {
+            "latitude": 1.284175,
+            "longitude": 103.8511379
+        }
+    },
+    "01_Poke_Theory": {
+        "chainName": "Poke Theory",
+        "latlng": {
+            "latitude": 1.2841943,
+            "longitude": 103.85193480000001
+        }
+    },
+    "01_TamJai_SamGor_Mixian": {
+        "chainName": "TamJai SamGor Mixian",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "6120_Starbucks": {
+        "chainName": "Starbucks - Battery Road",
+        "latlng": {
+            "latitude": 1.285505316,
+            "longitude": 103.8516629
+        }
+    },
+    "01_umisushi": {
+        "chainName": "umisushi",
+        "latlng": {
+            "latitude": 1.2841377,
+            "longitude": 103.8511642
+        }
+    },
+    "2042_The_Soup_Spoon": {
+        "chainName": "The Soup Spoon",
+        "latlng": {
+            "latitude": 1.2840148955530282,
+            "longitude": 103.85148115900012
+        }
+    },
+    "01_Chicha_San_Chen": {
+        "chainName": "CHICHA San Chen",
+        "latlng": {
+            "latitude": 1.2841536366923947,
+            "longitude": 103.85178853817143
+        }
+    },
+    "01_Patrons_Box": {
+        "chainName": "Patrons\u2019 Box",
+        "latlng": {
+            "latitude": 1.284898274,
+            "longitude": 103.8513931
+        }
+    },
+    "3753_Macpherson_BBQ_Seafood": {
+        "chainName": "Macpherson BBQ Seafood",
+        "latlng": {
+            "latitude": 1.2880400919204202,
+            "longitude": 103.8486363
+        }
+    },
+    "01_Briyani_Hut": {
+        "chainName": "Briyani Hut",
+        "latlng": {
+            "latitude": 1.287531,
+            "longitude": 103.849186
+        }
+    },
+    "01_Khushboo_The_Fragrance_of_India": {
+        "chainName": "Khushboo \u2013 The Fragrance of India",
+        "latlng": {
+            "latitude": 1.2863083892823266,
+            "longitude": 103.84963455627415
+        }
+    },
+    "01_Haakon_Superfoods__Juice": {
+        "chainName": "Haakon Superfoods & Juice",
+        "latlng": {
+            "latitude": 1.2839812533333335,
+            "longitude": 103.85108987500001
+        }
+    },
+    "01_Little_Ribbons": {
+        "chainName": "Little Ribbons",
+        "latlng": {
+            "latitude": 1.29135,
+            "longitude": 103.84999
+        }
+    },
+    "2130_Ajummas": {
+        "chainName": "Ajumma's",
+        "latlng": {
+            "latitude": 1.2913251,
+            "longitude": 103.8500892
+        }
+    },
+    "01_Milksha": {
+        "chainName": "Milksha",
+        "latlng": {
+            "latitude": 1.2914906653520775,
+            "longitude": 103.84973305
+        }
+    },
+    "01_Flavours_by_Saute": {
+        "chainName": "Flavours by Saute",
+        "latlng": {
+            "latitude": 1.291416,
+            "longitude": 103.8499566375
+        }
+    },
+    "01_Bedok_Bak_Chor_Mee": {
+        "chainName": "Bedok Bak Chor Mee",
+        "latlng": {
+            "latitude": 1.2876332,
+            "longitude": 103.8488885
+        }
+    },
+    "729_Lucky_Saigon": {
+        "chainName": "Lucky Saigon",
+        "latlng": {
+            "latitude": 1.2862877,
+            "longitude": 103.84841596
+        }
+    },
+    "1793_Qi_Ji": {
+        "chainName": "Qi Ji - Funan Mall",
+        "latlng": {
+            "latitude": 1.291225275,
+            "longitude": 103.8502895637285
+        }
+    },
+    "01_Churros_Republic": {
+        "chainName": "Churros Republic",
+        "latlng": {
+            "latitude": 1.29127554,
+            "longitude": 103.8503161
+        }
+    },
+    "01_Tip_Top_Curry_Puff": {
+        "chainName": "Tip Top Curry Puff",
+        "latlng": {
+            "latitude": 1.2840816,
+            "longitude": 103.8511791
+        }
+    },
+    "01_Delibowl": {
+        "chainName": "Delibowl",
+        "latlng": {
+            "latitude": 1.2912791,
+            "longitude": 103.8503589
+        }
+    },
+    "01_Haldi_Mexicana": {
+        "chainName": "Haldi Mexicana",
+        "latlng": {
+            "latitude": 1.28751,
+            "longitude": 103.84922
+        }
+    },
+    "01_Stuff_d": {
+        "chainName": "Stuff'd",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Drinifini": {
+        "chainName": "Drinifini",
+        "latlng": {
+            "latitude": 1.287559,
+            "longitude": 103.84858
+        }
+    },
+    "4803_Dunkin_Donuts": {
+        "chainName": "Dunkin' Donuts",
+        "latlng": {
+            "latitude": 1.2914274,
+            "longitude": 103.85052218
+        }
+    },
+    "01_Butter_Bean": {
+        "chainName": "Butter Bean",
+        "latlng": {
+            "latitude": 1.2915994226038712,
+            "longitude": 103.85054697886535
+        }
+    },
+    "01_Eventasty_Noodle_Bar": {
+        "chainName": "Eventasty Noodle Bar",
+        "latlng": {
+            "latitude": 1.2912672692190004,
+            "longitude": 103.8497891
+        }
+    },
+    "988_Sahara_Bar_Restaurant": {
+        "chainName": "Sahara Bar & Restaurant",
+        "latlng": {
+            "latitude": 1.2873979333333332,
+            "longitude": 103.8493093
+        }
+    },
+    "3898_Tonkotsu_Kazan_Ramen": {
+        "chainName": "Tonkotsu Kazan Ramen",
+        "latlng": {
+            "latitude": 1.291488202222222,
+            "longitude": 103.84966545
+        }
+    },
+    "1488_Green_Dot": {
+        "chainName": "Green Dot",
+        "latlng": {
+            "latitude": 1.284083,
+            "longitude": 103.851
+        }
+    },
+    "01_Curry_Village": {
+        "chainName": "Curry Village",
+        "latlng": {
+            "latitude": 1.286321663976937,
+            "longitude": 103.84963428122043
+        }
+    },
+    "01_Curry_Village_Authentic_North_Indian_Cuisine": {
+        "chainName": "Curry Village-Authentic North Indian Cuisine",
+        "latlng": {
+            "latitude": 1.286321663976937,
+            "longitude": 103.84963428122043
+        }
+    },
+    "7057_Phillip_St_Roasted_Delight": {
+        "chainName": "Phillip St Roasted Delight",
+        "latlng": {
+            "latitude": 1.2845276,
+            "longitude": 103.84967755275879
+        }
+    },
+    "4159_Gado_Grill": {
+        "chainName": "Gado & Grill",
+        "latlng": {
+            "latitude": 1.2842647988995544,
+            "longitude": 103.8511856
+        }
+    },
+    "01_PPP_Coffee": {
+        "chainName": "PPP Coffee",
+        "latlng": {
+            "latitude": 1.291486,
+            "longitude": 103.849697
+        }
+    },
+    "01_Bombay_Grill_Restaurant_Delivery": {
+        "chainName": "Bombay Grill (Restaurant Delivery)",
+        "latlng": {
+            "latitude": 1.287599,
+            "longitude": 103.848244
+        }
+    },
+    "01_Mughlai_Mumbai_Curry_And_Grill_Authentic_North_Indian_Restaur": {
+        "chainName": "Mughlai Mumbai Curry And Grill Authentic North Indian Restaurant",
+        "latlng": {
+            "latitude": 1.287651,
+            "longitude": 103.848166
+        }
+    },
+    "01_Kaayaloram_Kerala_Restaurant": {
+        "chainName": "Kaayaloram Kerala Restaurant",
+        "latlng": {
+            "latitude": 1.28824859,
+            "longitude": 103.849193
+        }
+    },
+    "03_Kazo": {
+        "chainName": "Kazo Premium",
+        "latlng": {
+            "latitude": 1.29128860338776,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_Co_Chung_Restaurant": {
+        "chainName": "Co Chung Restaurant",
+        "latlng": {
+            "latitude": 1.28699182092609,
+            "longitude": 103.848753310453
+        }
+    },
+    "01_Dalkomm_Coffee": {
+        "chainName": "Dal.komm Coffee",
+        "latlng": {
+            "latitude": 1.2914151,
+            "longitude": 103.8497955
+        }
+    },
+    "5329_Mirch_Masalah": {
+        "chainName": "Mirch Masalah",
+        "latlng": {
+            "latitude": 1.2863,
+            "longitude": 103.84962
+        }
+    },
+    "01_Gong_Yuan_Ma_La_Tang": {
+        "chainName": "Gong Yuan Ma La Tang",
+        "latlng": {
+            "latitude": 1.2915614747726352,
+            "longitude": 103.84985594470442
+        }
+    },
+    "01_Super_Coco": {
+        "chainName": "Super Coco",
+        "latlng": {
+            "latitude": 1.291329,
+            "longitude": 103.850162
+        }
+    },
+    "01_Yan_Ji_Gourmet_Seafood_Soup": {
+        "chainName": "Yan Ji Gourmet Seafood Soup",
+        "latlng": {
+            "latitude": 1.29131,
+            "longitude": 103.850432
+        }
+    },
+    "01_Sultan_Palace_Turkish__Lebanese_Cuisine": {
+        "chainName": "Sultan Palace Turkish & Lebanese Cuisine",
+        "latlng": {
+            "latitude": 1.288086924,
+            "longitude": 103.8492329
+        }
+    },
+    "01_MOS_Burger": {
+        "chainName": "MOS Burger",
+        "latlng": {
+            "latitude": 1.2864212,
+            "longitude": 103.85430495
+        }
+    },
+    "01_LEntrecote_La_Baguette": {
+        "chainName": "L'Entrecote La Baguette",
+        "latlng": {
+            "latitude": 1.291322,
+            "longitude": 103.850083
+        }
+    },
+    "01_Indian_House": {
+        "chainName": "Indian House",
+        "latlng": {
+            "latitude": 1.2869870454508168,
+            "longitude": 103.84938902597231
+        }
+    },
+    "01_Afuri": {
+        "chainName": "Afuri",
+        "latlng": {
+            "latitude": 1.2914311222222221,
+            "longitude": 103.8498501
+        }
+    },
+    "01_Mix__Match_Malls_Food_City_Hall": {
+        "chainName": "Mix & Match Malls (Food) - City Hall",
+        "latlng": {
+            "latitude": 1.2915629509507909,
+            "longitude": 103.84983306920168
+        }
+    },
+    "4408_Jjak_Co": {
+        "chainName": "Jjak & Co.",
+        "latlng": {
+            "latitude": 1.286538184,
+            "longitude": 103.8492418
+        }
+    },
+    "01_Sushi_Express": {
+        "chainName": "Sushi Express",
+        "latlng": {
+            "latitude": 1.2911182921637732,
+            "longitude": 103.8503335760318
+        }
+    },
+    "01_The_Grill_Knife": {
+        "chainName": "The Grill Knife",
+        "latlng": {
+            "latitude": 1.28463,
+            "longitude": 103.85139
+        }
+    },
+    "01_Mr_Holmes_Bakehouse": {
+        "chainName": "Mr Holmes Bakehouse",
+        "latlng": {
+            "latitude": 1.285386627,
+            "longitude": 103.8525264
+        }
+    },
+    "01_George_Town_Tze_Char_And_Craft_Beer": {
+        "chainName": "George Town Tze Char And Craft Beer",
+        "latlng": {
+            "latitude": 1.28843709,
+            "longitude": 103.849151
+        }
+    },
+    "01_Mr_Bean": {
+        "chainName": "Mr Bean",
+        "latlng": {
+            "latitude": 1.2846465,
+            "longitude": 103.8514938
+        }
+    },
+    "01_Five_Foot_Lane": {
+        "chainName": "Five Foot Lane",
+        "latlng": {
+            "latitude": 1.2912891,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_Old_Chang_Kee": {
+        "chainName": "Old Chang Kee",
+        "latlng": {
+            "latitude": 1.2842568326087331,
+            "longitude": 103.85173480776871
+        }
+    },
+    "01_Fat_Bao_Bao": {
+        "chainName": "Fat Bao Bao",
+        "latlng": {
+            "latitude": 1.2903829531375,
+            "longitude": 103.849297971757
+        }
+    },
+    "01_The_Coffee_Bean__Tea_Leaf": {
+        "chainName": "The Coffee Bean & Tea Leaf",
+        "latlng": {
+            "latitude": 1.284258,
+            "longitude": 103.85193
+        }
+    },
+    "01_Tea_Pulse": {
+        "chainName": "Tea Pulse",
+        "latlng": {
+            "latitude": 1.28469173,
+            "longitude": 103.84980293846154
+        }
+    },
+    "01_JonesMart": {
+        "chainName": "JonesMart",
+        "latlng": {
+            "latitude": 1.2908608824785464,
+            "longitude": 103.84941059663592
+        }
+    },
+    "01_Old_Airport_Road_Wonton_Noodle": {
+        "chainName": "Old Airport Road Wonton Noodle",
+        "latlng": {
+            "latitude": 1.284142346,
+            "longitude": 103.8528419
+        }
+    },
+    "01_The_Alley": {
+        "chainName": "The Alley",
+        "latlng": {
+            "latitude": 1.28495094565484,
+            "longitude": 103.851051262433
+        }
+    },
+    "285_AroyDee_Thai_Kitchen": {
+        "chainName": "Aroy-Dee Thai Kitchen",
+        "latlng": {
+            "latitude": 1.2871698,
+            "longitude": 103.8488409
+        }
+    },
+    "01_Hennessy_Duck": {
+        "chainName": "Hennessy Duck",
+        "latlng": {
+            "latitude": 1.2912891,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_Flash_Coffee": {
+        "chainName": "Flash Coffee",
+        "latlng": {
+            "latitude": 1.284755,
+            "longitude": 103.849828
+        }
+    },
+    "01_Wan_Zai_Taiwanese_Cuisine": {
+        "chainName": "Wan Zai Taiwanese Cuisine",
+        "latlng": {
+            "latitude": 1.28418541529456,
+            "longitude": 103.850272475857
+        }
+    },
+    "01_Boost_Juice_Bars": {
+        "chainName": "Boost Juice Bars",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Co_Nut_Ink": {
+        "chainName": "Co Nut Ink",
+        "latlng": {
+            "latitude": 1.2891794631220677,
+            "longitude": 103.85536852111693
+        }
+    },
+    "01_Smooy": {
+        "chainName": "Smooy",
+        "latlng": {
+            "latitude": 1.29128860338776,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_SF_Farm_Mart": {
+        "chainName": "SF Farm Mart",
+        "latlng": {
+            "latitude": 1.2870431684137031,
+            "longitude": 103.8537286643413
+        }
+    },
+    "01_SF_Fruits__Juices": {
+        "chainName": "SF Fruits & Juices",
+        "latlng": {
+            "latitude": 1.284531480433941,
+            "longitude": 103.85150592011075
+        }
+    },
+    "01_Ange_Bakes_Keto_Bakery__Cafe": {
+        "chainName": "Ange Bakes Keto Bakery & Cafe",
+        "latlng": {
+            "latitude": 1.2912595572981616,
+            "longitude": 103.85148536439601
+        }
+    },
+    "01_Xiang_Gua_Li_La": {
+        "chainName": "Xiang Gua Li La",
+        "latlng": {
+            "latitude": 1.2912891,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_Nasty_Cookie": {
+        "chainName": "Nasty Cookie Factory",
+        "latlng": {
+            "latitude": 1.2916424861264864,
+            "longitude": 103.85055984287857
+        }
+    },
+    "2519_Twelve_Cupcakes": {
+        "chainName": "Twelve Cupcakes",
+        "latlng": {
+            "latitude": 1.2840524,
+            "longitude": 103.8511598
+        }
+    },
+    "01_Pasta_E_Formaggio": {
+        "chainName": "Pasta E Formaggio",
+        "latlng": {
+            "latitude": 1.284625,
+            "longitude": 103.84979
+        }
+    },
+    "01_Fun_Toast": {
+        "chainName": "Fun Toast",
+        "latlng": {
+            "latitude": 1.2841922428571428,
+            "longitude": 103.851137
+        }
+    },
+    "01_Miniso": {
+        "chainName": "Miniso",
+        "latlng": {
+            "latitude": 1.288723684,
+            "longitude": 103.8477799
+        }
+    },
+    "01_The_Living_Cafe__Collyer_Quay": {
+        "chainName": "The Living Cafe - Collyer Quay",
+        "latlng": {
+            "latitude": 1.2852791,
+            "longitude": 103.852674303637
+        }
+    },
+    "01_PS_Cafe": {
+        "chainName": "PS.Cafe",
+        "latlng": {
+            "latitude": 1.2862578,
+            "longitude": 103.8541728
+        }
+    },
+    "01_Jao_Thai_Food": {
+        "chainName": "Jao Thai Food",
+        "latlng": {
+            "latitude": 1.288056684,
+            "longitude": 103.8486969
+        }
+    },
+    "01_Fruit_Paradise": {
+        "chainName": "Fruit Paradise",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Kura_Patisserie_Bakery": {
+        "chainName": "Kura Patisserie Bakery",
+        "latlng": {
+            "latitude": 1.28666683621027,
+            "longitude": 103.84807315176
+        }
+    },
+    "01_Luck69_Beer_Cafe": {
+        "chainName": "Lucky69 Beer Cafe",
+        "latlng": {
+            "latitude": 1.2864379,
+            "longitude": 103.8483985
+        }
+    },
+    "01_Kims_Singapore_Bistro": {
+        "chainName": "Kim's Singapore Bistro",
+        "latlng": {
+            "latitude": 1.286676,
+            "longitude": 103.849015
+        }
+    },
+    "01_Piccolo_Coffee": {
+        "chainName": "Piccolo Coffee\u00ae",
+        "latlng": {
+            "latitude": 1.2910662,
+            "longitude": 103.85038604662
+        }
+    },
+    "5297_Wanna_Cuppa": {
+        "chainName": "Wanna Cuppa",
+        "latlng": {
+            "latitude": 1.2890808704613477,
+            "longitude": 103.84779573714985
+        }
+    },
+    "01_Jewel_Coffee": {
+        "chainName": "Jewel Coffee",
+        "latlng": {
+            "latitude": 1.2841325333333333,
+            "longitude": 103.85257550040822
+        }
+    },
+    "01_Legendary_Hong_Kong": {
+        "chainName": "Legendary Hong Kong",
+        "latlng": {
+            "latitude": 1.291504,
+            "longitude": 103.8497
+        }
+    },
+    "01_Godmama_Modern_Peranakan_Kitchen": {
+        "chainName": "Godmama Modern Peranakan Kitchen",
+        "latlng": {
+            "latitude": 1.2912,
+            "longitude": 103.850133
+        }
+    },
+    "01_IL_Fiore_Restaurant__Bar": {
+        "chainName": "IL Fiore Restaurant & Bar",
+        "latlng": {
+            "latitude": 1.2851375,
+            "longitude": 103.8519151
+        }
+    },
+    "01_Jollibean": {
+        "chainName": "Jollibean",
+        "latlng": {
+            "latitude": 1.28385684,
+            "longitude": 103.8514851
+        }
+    },
+    "01_The_Penny_Black_Victorian_London_Pub": {
+        "chainName": "The Penny Black Victorian London Pub",
+        "latlng": {
+            "latitude": 1.28565556610716,
+            "longitude": 103.849698171566
+        }
+    },
+    "01_5_Senses_Bistro": {
+        "chainName": "5 Senses Bistro",
+        "latlng": {
+            "latitude": 1.291478,
+            "longitude": 103.849743
+        }
+    },
+    "3845_Harrys": {
+        "chainName": "Harry's",
+        "latlng": {
+            "latitude": 1.2860184,
+            "longitude": 103.8499878
+        }
+    },
+    "01_The_Good_Boys": {
+        "chainName": "The Good Boys",
+        "latlng": {
+            "latitude": 1.2903829531375,
+            "longitude": 103.849297971757
+        }
+    },
+    "01_The_Oyster_Bank": {
+        "chainName": "The Oyster Bank",
+        "latlng": {
+            "latitude": 1.2913241,
+            "longitude": 103.8502878
+        }
+    },
+    "01_Tandoori_Restaurant": {
+        "chainName": "Tandoori Restaurant",
+        "latlng": {
+            "latitude": 1.287651,
+            "longitude": 103.848166
+        }
+    },
+    "01_1826": {
+        "chainName": "1826",
+        "latlng": {
+            "latitude": 1.28608,
+            "longitude": 103.84983
+        }
+    },
+    "01_Old_Tea_Hut": {
+        "chainName": "Old Tea Hut",
+        "latlng": {
+            "latitude": 1.2843468846153845,
+            "longitude": 103.8512387
+        }
+    },
+    "01_Marks__Spencer": {
+        "chainName": "Marks & Spencer",
+        "latlng": {
+            "latitude": 1.2839178,
+            "longitude": 103.8511279
+        }
+    },
+    "01_Haagen_Dazs": {
+        "chainName": "Haagen-Dazs",
+        "latlng": {
+            "latitude": 1.29128860338776,
+            "longitude": 103.850389532962
+        }
+    },
+    "01_Gyo_Gyo": {
+        "chainName": "Gyo Gyo",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Dopa_Dopa_Creamery": {
+        "chainName": "Dopa Dopa Creamery",
+        "latlng": {
+            "latitude": 1.2878,
+            "longitude": 103.848611
+        }
+    },
+    "01_Quick_Greens": {
+        "chainName": "Quick Greens",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Perfect_7_Pte_Ltd": {
+        "chainName": "Perfect 7 Pte. Ltd.",
+        "latlng": {
+            "latitude": 1.2841851,
+            "longitude": 103.850272475857
+        }
+    },
+    "01_Men_Men_Don_Don": {
+        "chainName": "Men Men Don Don",
+        "latlng": {
+            "latitude": 1.2912891,
+            "longitude": 103.85038953296225
+        }
+    },
+    "01_Three_Amigos_Mexican_and_Indian": {
+        "chainName": "Three Amigos Mexican and Indian",
+        "latlng": {
+            "latitude": 1.28827029100952,
+            "longitude": 103.849253983276
+        }
+    },
+    "01_Dark_Horse": {
+        "chainName": "Dark Horse",
+        "latlng": {
+            "latitude": 1.286037379,
+            "longitude": 103.8498318
+        }
+    },
+    "01_Sinpopo_Coffee": {
+        "chainName": "Sinpopo Coffee",
+        "latlng": {
+            "latitude": 1.2911644191593723,
+            "longitude": 103.85045305820518
+        }
+    },
+    "5129_The_Mask": {
+        "chainName": "The Mask",
+        "latlng": {
+            "latitude": 1.2871178104873982,
+            "longitude": 103.8488807260703
+        }
+    },
+    "01_Golden_Village_Goldbites": {
+        "chainName": "Golden Village Goldbites",
+        "latlng": {
+            "latitude": 1.29109,
+            "longitude": 103.8505
+        }
+    },
+    "01_Bombay_House": {
+        "chainName": "Bombay House",
+        "latlng": {
+            "latitude": 1.28763,
+            "longitude": 103.84817
+        }
+    },
+    "5855_Famous_Amos": {
+        "chainName": "Famous Amos",
+        "latlng": {
+            "latitude": 1.2844707,
+            "longitude": 103.85123281666667
+        }
+    },
+    "01_TheJellyHearts": {
+        "chainName": "TheJellyHearts",
+        "latlng": {
+            "latitude": 1.284571274,
+            "longitude": 103.8510471
+        }
+    },
+    "01_The_Green_Collective_SG": {
+        "chainName": "The Green Collective SG",
+        "latlng": {
+            "latitude": 1.29106578346931,
+            "longitude": 103.85038604662
+        }
+    },
+    "01_Aryana_North_Indian_Restaurant": {
+        "chainName": "Aryana - North Indian Restaurant",
+        "latlng": {
+            "latitude": 1.287651,
+            "longitude": 103.848166
+        }
+    },
+    "01_The_Fullerton_Hotel_Singapore_Festive_Store": {
+        "chainName": "The Fullerton Hotel Singapore Festive Store",
+        "latlng": {
+            "latitude": 1.286265965,
+            "longitude": 103.8526989
+        }
+    },
+    "01_Rejuve": {
+        "chainName": "Re.juve",
+        "latlng": {
+            "latitude": 1.284185,
+            "longitude": 103.850272
+        }
+    },
+    "01_Made_Gourmet_Burgers": {
+        "chainName": "&Made Gourmet Burgers",
+        "latlng": {
+            "latitude": 1.2913216,
+            "longitude": 103.850083
+        }
+    },
+    "01_Anita_Indian_Restaurant": {
+        "chainName": "Anita - Indian Restaurant",
+        "latlng": {
+            "latitude": 1.287651,
+            "longitude": 103.848166
+        }
+    },
+    "01_Tribe_Restaurant": {
+        "chainName": "Tribe Restaurant",
+        "latlng": {
+            "latitude": 1.288543,
+            "longitude": 103.851054
+        }
+    },
+    "01_Yakiniku_Shokudo": {
+        "chainName": "Yakiniku Shokudo",
+        "latlng": {
+            "latitude": 1.2913524,
+            "longitude": 103.8501395
+        }
+    },
+    "5165_Ricciotti": {
+        "chainName": "Ricciotti",
+        "latlng": {
+            "latitude": 1.2892158391798627,
+            "longitude": 103.84854476261046
+        }
+    }
+}
