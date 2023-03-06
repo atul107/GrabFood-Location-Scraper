@@ -1,7 +1,7 @@
 import json
 from time import sleep
 
-from Driver import Driver
+from driver import Driver
 
 from selenium.common.exceptions import TimeoutException
 from seleniumwire.utils import decode as sw_decode

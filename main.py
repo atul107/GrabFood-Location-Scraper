@@ -1,8 +1,8 @@
 import json
 
-from Scraper import Scraper
-from Driver import *
-from Dataparser import JsonParser
+from scraper import Scraper
+from driver import ChromeDriver
+from dataparser import JsonParser
 
 
 def main():
