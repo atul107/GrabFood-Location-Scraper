@@ -1,0 +1,7 @@
+{
+    "base_url": "https://food.grab.com/sg/en/restaurants",
+    "post_url": "https://portal.grab.com/foodweb/v2/search",
+    "user_agent": "Chrome/60.0.3112.50",
+    "additional_args": ["--no-sandbox", "--disable-extensions", "--disable-dev-shm-usage", "--headless=new"],
+    "output_file": "data.json"
+}
